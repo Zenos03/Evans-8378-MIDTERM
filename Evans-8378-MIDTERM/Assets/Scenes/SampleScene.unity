@@ -2466,7 +2466,7 @@ GameObject:
   - component: {fileID: 914821385}
   - component: {fileID: 914821384}
   - component: {fileID: 914821383}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3030,7 +3030,7 @@ GameObject:
   - component: {fileID: 1149061945}
   - component: {fileID: 1149061944}
   - component: {fileID: 1149061943}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Skyscraper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4776,7 +4776,7 @@ GameObject:
   - component: {fileID: 1481659649}
   - component: {fileID: 1481659648}
   - component: {fileID: 1481659647}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: House
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6291,7 +6291,7 @@ GameObject:
   - component: {fileID: 1813746469}
   - component: {fileID: 1813746468}
   - component: {fileID: 1813746467}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Gas Station
   m_TagString: Untagged
   m_Icon: {fileID: 0}
