@@ -9,6 +9,7 @@ TagManager:
   - player
   - enemy
   - ammo box
+  - trap
   layers:
   - Default
   - TransparentFX
