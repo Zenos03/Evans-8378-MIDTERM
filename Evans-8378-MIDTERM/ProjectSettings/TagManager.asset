@@ -8,6 +8,7 @@ TagManager:
   - Switch
   - player
   - enemy
+  - ammo box
   layers:
   - Default
   - TransparentFX
